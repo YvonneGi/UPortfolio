@@ -1,6 +1,16 @@
-Thanks for downloading this template!
+# UPortfolio
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This is a personal portfolio
+
+**Author:Yvonne Ugirimpuhwe**
++ ***Due on Monday 28th September,2020***
+
+## Contacts
+
++ Emails:giryvonne@gmail.com 
++ Phone:0783230882
++ Repositority :
+
+## License 
+
+This project is licensed under the MIT Open Source license, (c) **Yvonne**
